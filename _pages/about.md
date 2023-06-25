@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Weclome to my personal website! My name is Daxin Sun, and I am currently an assiciate fellow at the department of complex engineering management, School of Management & Engineering, Nanjing University. I received a B.M. degree in information management and information system from Southwestern University of Finance and Economics in 2015 and a Ph.D. degree in management science and engineering from Shanghai Jiao Tong University in 2021.
-
-# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Wcys5hwAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
